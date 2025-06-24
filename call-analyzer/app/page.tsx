@@ -82,7 +82,7 @@ export default function Home() {
 'use client';
 
 import { useState } from 'react';
-import styles from './Page.module.css';
+import styles from './page.module.css';
 
 export default function Home() {
   const [audioFile, setAudioFile] = useState<File | null>(null);
