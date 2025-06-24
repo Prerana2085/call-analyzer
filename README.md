@@ -20,6 +20,6 @@
 | Technology      | Description                          |
 |-----------------|--------------------------------------|
 | **Next.js**     | React framework for frontend + API   |
-| **Tailwind CSS**| For styling and layout               |
+| **CSS Modules** | For styling individual components    |
 | **AssemblyAI**  | Audio transcription & analysis       |
 | **TypeScript**  | Safer, more structured JavaScript    |
